@@ -1,1 +1,1 @@
-WordPress Theme for mochipedia
+# WordPress Theme for mochipedia
