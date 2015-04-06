@@ -29,8 +29,8 @@
 <meta property="og:description" content="<?php echo get_ogp_excerpted_content($post->post_content); ?>" />
   <?php endif; ?>
 
-  <link rel="shortcut icon" href="<?php echo get_template_directory_uri(); ?>/img/favicon.ico">
-  <link rel="apple-touch-icon" href="<?php echo get_template_directory_uri(); ?>/img/apple-touch-icon.png">
+  <link rel="shortcut icon" href="<?php echo get_template_directory_uri(); ?>/assets/images/favicon.ico">
+  <link rel="apple-touch-icon" href="<?php echo get_template_directory_uri(); ?>/assets/images/apple-touch-icon.png">
   <link rel="stylesheet" href="<?php echo get_stylesheet_uri(); ?>" />
   <!--[if lt IE 9]>
   <script src="<?php echo get_template_directory_uri(); ?>/js/html5.js"></script>
